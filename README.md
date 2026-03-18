@@ -23,7 +23,7 @@ A simple Windows tray app that displays time progress, such as of the day, of th
 ## Usage
 
 1. [Download from releases](https://github.com/WendellTech/TrayTempra/releases/latest)
-2. Launch the application, it will appear in the system tray (default bottom right of the screen)
+2. Extract and Launch the application, it will appear in the system tray (default bottom right of the screen)
 3. Left-click the tray icon to open the progress popup
 4. Right-click for settings and exit options
 
